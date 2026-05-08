@@ -262,7 +262,7 @@ export default function App() {
 
       <section className="hero-copy" aria-label="Portfolio intro">
         <p>Portfolio System</p>
-        <h1>Meow Portfolio</h1>
+        <h1>Vũ Khang Digital Portfolio</h1>
       </section>
     </main>
   );
